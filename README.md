@@ -1,1 +1,1 @@
-# Technigoapplication
+# Technigo Application
