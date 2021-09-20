@@ -1,0 +1,36 @@
+/*header styles*/
+
+
+/*The .class selector selects elements with a specific class attribute.
+
+To select elements with a specific class, write a period (.) character, followed by the name of the class.*/
+
+.main_heading {
+    background-color: white;
+    font-family: 'PT Serif', serif;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    max-width: 50%;
+    height: auto;
+}
+
+
+/*body styles*/
+
+body {
+    background-color: bisque;
+}
+
+.frameworks {
+    margin: 0;
+    font-size: 20px;
+    padding: 5px;
+    font-family: monospace;
+}
